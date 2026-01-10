@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Engineering undergraduate at Bharati Vidyapeeth (Deemed to be University), Navi Mumbai (2024–2028), focused on building strong fundamentals in core computer science and backend-oriented software development. My academic training includes data structures and algorithms, object-oriented programming, web development, and database management systems. I work with Java, Python, JavaScript, HTML, CSS, and SQL, and use Git, GitHub, and Visual Studio Code for development and version control. I am actively strengthening my problem-solving and algorithmic thinking skills and aim to apply theoretical concepts to practical, real-world software systems while continuing to deepen my understanding of software engineering fundamentals.
+I am a Computer Science and Engineering undergraduate student at Bharati Vidyapeeth (Deemed to be University), Navi Mumbai (2024–2028), focused on core computer science fundamentals and backend development, with experience in Java, Python, JavaScript, HTML, CSS, SQL, and practical problem-solving.
 
 
 ## 🌐 Socials:
