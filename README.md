@@ -1,68 +1,40 @@
-<h1>🧑🏻‍💻 About Me :</h1>
-<p>
-  I am a Computer Science and Engineering undergraduate student at
-  <strong>Bharati Vidyapeeth (Deemed to be University), Navi Mumbai</strong>
-  (2024–2028), focused on core computer science fundamentals and backend
-  development, with experience in Java, Python, JavaScript, HTML, CSS, SQL,
-  and practical problem-solving.
-</p>
+![image](https://github.com/Subhanjeet/Subhanjeet/blob/main/subhanjeet_singh.png?raw=true)
+# 🧑🏻‍About Me :
+I’m a Computer Science and Engineering undergraduate student focused on building strong foundations in core computer science and backend development. I work with Java, Python, JavaScript, HTML, CSS, and SQL, and more. I’m actively improving my problem-solving and algorithmic thinking by applying theoretical concepts to practical, real-world software projects.
 
-<hr>
 
-<h2>💻 Tech Stack!!</h2>
+---
 
-<h3>🧠 Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
+## 💻 Tech Stack!!
 
-<h3>🌐 Web Technologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+### 🧠 Programming Languages  
+[![C, JAVA, PYTHON, JAVASCRIPT](https://skillicons.dev/icons?i=c,java,python,javascript)](https://skillicons.dev)
 
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
 
-<h3>🧰 Tools &amp; Version Control</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+### 🌐 Web Technologies  
+[![CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-<hr>
+### 🗄️ Databases  
+[![Mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-<h1>📊 GitHub Stats :</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhanjeet&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Subhanjeet&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhanjeet&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
 
-<hr>
+### 🧰 Tools & Version Control  
+[![Git & Github](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-<h2>🌐 Socials :</h2>
-<p>
-  <a href="https://instagram.com/subhanjeet_2278" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/subhanjeetsingh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ssubhanjeet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
 
-<hr>
+# 📊 GitHub Stats : 
+![](https://github-readme-stats.vercel.app/api?username=Subhanjeet&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Subhanjeet&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhanjeet&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+---
+
+## 🌐 Socials :
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/subhanjeet_2278) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/subhanjeetsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssubhanjeet@gmail.com) 
+
+
+
+---
+![sticker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWczOHN5bmNrdXprdXdmZDF6bmw2d2ZoenM4dzZwNHFrZ29jbXFrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)
