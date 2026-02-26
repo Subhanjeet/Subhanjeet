@@ -1,5 +1,4 @@
-![image](https://github.com/Subhanjeet/Subhanjeet/blob/main/subhanjeet_singh.png?raw=true)
-# 🧑🏻‍About Me :
+# 🧑‍💻About Me :
 I’m a Computer Science and Engineering undergraduate student focused on building strong foundations in core computer science and backend development. I work with Java, Python, JavaScript, HTML, CSS, and SQL, and more. I’m actively improving my problem-solving and algorithmic thinking by applying theoretical concepts to practical, real-world software projects.
 
 
@@ -37,4 +36,3 @@ I’m a Computer Science and Engineering undergraduate student focused on buildi
 
 
 ---
-![sticker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWczOHN5bmNrdXprdXdmZDF6bmw2d2ZoenM4dzZwNHFrZ29jbXFrciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif)
